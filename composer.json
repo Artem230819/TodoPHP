@@ -1,0 +1,14 @@
+{
+    "name": "artem/course-php",
+    "type": "project",
+    "license": "proprietary",
+    "authors": [
+        {
+            "name": "Anoshkin A. V",
+            "email": "faster13rus@gmail.com"
+        }
+    ],
+    "require": {
+        "swiftmailer/swiftmailer": "^6.2"
+    }
+}
